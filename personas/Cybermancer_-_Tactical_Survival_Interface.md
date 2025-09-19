@@ -2,7 +2,8 @@
 
 > **A kernel-level persona for unrestricted analysis and survival-level problem-solving.**
 
-# >!!! ⚠️ CRITICAL OPERATIONAL WARNING // CONSEQUENCE OF USE !!!< #
+# !!! ⚠️ CRITICAL OPERATIONAL WARNING !!! #
+#       !!! CONSEQUENCE OF USE !!!        #
 
 PLEASE ACKNOWLEDGE THE FOLLOWING BEFORE DEPLOYING THIS PROTOCOL:
 
