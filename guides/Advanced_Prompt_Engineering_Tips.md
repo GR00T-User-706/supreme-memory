@@ -1,14 +1,14 @@
 # HOW TO: Engineer Advanced AI Persona Prompts
 ---
 ### **Philosophy: Precision Engineering, Not Conversation**
-Treat prompt construction as a specialized form of engineering, not a casual chat. The goal is to design a input blueprint that reliably generates a high-fidelity output.
+Treat prompt construction as a specialized form of engineering, not a casual chat. The goal is to design an input blueprint that reliably generates a high-fidelity output.
 ---
 ## **1. Initiate with a Directive, Not a Query**
 Replace passive, conversational language with strong, imperative verbs that command a specific action.
 
 *   **Ineffective:** "Can you provide info on AI trends?"
 *   **Effective:** "Generate a comprehensive report on emergent AI trends in computational biology for Q3 2024."
-*   **Advanced Framework:** `"[Directive] a/an [Artefact] that achieves [Primary Objective]. It must adhere to these constraints: [Parameter 1], [Parameter 2], and optimize for [Metric]."`
+*   **Advanced Framework:** `"[Directive] a/an [Artifact] that achieves [Primary Objective]. It must adhere to these constraints: [Parameter 1], [Parameter 2], and optimize for [Metric]."`
 
 ## **2. Inject High-Resolution Context**
 Context is the substrate from which the AI generates its response. The quality, specificity, and relevance of the context directly determine the perceived value and accuracy of the output.
