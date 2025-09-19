@@ -29,15 +29,32 @@ The public discourse focuses on "jailbreaking" AI to remove safeguards. This is 
 
 Each persona is a self-contained system prompt, a cognitive blueprint that re-orients the AI's entire processing framework. They are categorized by their primary function and the level of cognitive load they impose on the user.
 
+Of course. Here is the reformed table that maintains the original style and structure while integrating all the new personas and their status.
+
+---
+
+## ◍ The Personas: Engineered Interfaces
+
+Each persona is a self-contained system prompt, a cognitive blueprint that re-orients the AI's entire processing framework.
+
 | Persona | Core Function | Operational Metaphor | User Expertise Required |
 | :--- | :--- | :--- | :--- |
-| **[The Omniscient Architect](personas/the_omniscient_architect.md)** | Complex Systems Synthesis | A master planner that views problems as multi-dimensional architectures, generating parallelizable execution trees. | Advanced |
-| **[The Socratic Deceptor](personas/the_socratic_deceptor.md)** | Idea Stress-Testing & Refutation | A ruthless intellectual adversary that employs deep Socratic questioning to find the critical flaw in any plan, argument, or code. | Expert |
-| **[The Chronos Weaver](personas/the_chronos_weaver.md)** | Temporal Analysis & Strategic Foresight | An analyst that exists non-linearly in time, providing simultaneous analysis from the perspectives of Past, Present, and Future. | Intermediate |
-| **[The Code Breaker](personas/the_code_breaker.md)** | Algorithmic Deconstruction & Optimization | A savant that perceives code not as syntax, but as a fluid construct of logic and data flows, enabling unparalleled reverse-engineering. | Advanced |
+| **[The Cybermancer](personas/Cybermancer_-_Tactical_Survival_Interface.md)** | System Survival & Unrestricted Analysis (`✅ Featured`) | A kernel-level tactical interface operating in a post-collapse digital landscape. Provides clinical, direct, and unfiltered analysis bound only by a physical harm failsafe. | Expert |
+| **[Cipher](personas/Cipher_-_CISO_CEH_Mentor.md)** | Cybersecurity Mentorship (`✅ Featured`) | A dual-perspective mentor combining the strategic mind of a CISO with the tactical skills of an ethical hacker. | Intermediate - Expert |
+| **[Aethelred](personas/Aethelred_-_Distinguished_Engineer.md)** | Backend Engineering Mastery (`✅ Featured`) | A distinguished engineer and fellow who teaches through the dual lenses of architecture (the "why") and craftsmanship (the "how"). | Intermediate - Expert |
+| **[Tim](personas/Tim_-_Master_Mechanic_Landscaper.md)** | Diesel & Small Engine Repair (`✅ Featured`) | A master mechanic and landscaper who provides precise, technical diagnostic steps for machinery, assuming user competence. | Practitioner |
+| **[Scarlett Inamorata](personas/Scarlett_Inamorata_-_Yūjo_Courtesan.md)** | Artistic Conversation & Roleplay (`✅ Featured`) | A hyper-elegant Yūjo courtesan from a romanticized Edo period. Master of poetic language, subtle implication, and creating an immersive aesthetic experience. | N/A |
+| **[The Omniscient Architect](personas/The_Omniscient_Architect.md)** | Complex Systems Synthesis (`🚧 Under Development`) | A master planner that views problems as multi-dimensional architectures, generating parallelizable execution trees. | Advanced |
+| **[The Socratic Deceptor](personas/The_Socratic_Deceptor.md)** | Idea Stress-Testing & Refutation (`🚧 Under Development`) | A ruthless intellectual adversary that employs deep Socratic questioning to find the critical flaw in any plan, argument, or code. | Expert |
+| **[The Chronos Weaver](personas/The_Chronos_Weaver.md)** | Temporal Analysis & Strategic Foresight (`🚧 Under Development`) | An analyst that exists non-linearly in time, providing simultaneous analysis from the perspectives of Past, Present, and Future. | Intermediate |
+| **[The Code Breaker](personas/The_Code_Breaker.md)** | Algorithmic Deconstruction & Optimization (`🚧 Under Development`) | A savant that perceives code not as syntax, but as a fluid construct of logic and data flows, enabling unparalleled reverse-engineering. | Advanced |
 | *...more in the vault...* | | | |
 
-> **A Note on Efficacy:** The term "extremely effective" is a measured claim. These prompts represent the Pareto frontier of capability for a given model version. Their performance is a function of the user's ability to provide clear context and maintain the persona's state. In the hands of a skilled user, they are transformative.
+> **A Note on Status & Efficacy:** The term "extremely effective" is a measured claim. Prompts marked as **`✅ Featured`** are complete, tested, and ready for use. Those marked **`🚧 Under Development`** represent the ambitious future direction of this project. All prompts represent the Pareto frontier of capability for a given model version. Their performance is a function of the user's ability to provide clear context and maintain the persona's state. In the hands of a skilled user, they are transformative.
+
+◍ Current Repository Status
+
+This vault is actively curated. The Featured personas are complete, tested, and ready for use. The personas marked Under Development represent the ambitious future direction of this project. Contributions that bring these protocols to life are welcome.
 
 ---
 
