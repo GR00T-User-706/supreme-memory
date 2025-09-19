@@ -1,5 +1,7 @@
-HOWTO
-write chatGPT prompts
+# HOW TO
+## Engineer AI Persona Prompts
+### the begining 
+- start small 
 
 1 start with action words
 "Create", "Write", "produce", "Generate", "Display", "Demonstrate", "Build"
