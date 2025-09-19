@@ -89,7 +89,7 @@ This repository is also a dataset and a call to collaboration.
 
 The creation of this vault—including the personas themselves and this documentation—is the result of a months-long, iterative process of prompt engineering and refinement.
 
-*   **The Engineer:** The conceptual design, strategic direction, and final approval for all prompts and text were performed by a human developer ([Your Name/Github Username]).
+*   **The Engineer:** The conceptual design, strategic direction, and final approval for all prompts and text were performed by a human developer ([Zenrich Shadowstep/GR00T-User-706]).
 *   **The Tools:** The process was powered by a collaborative AI workflow:
     *   **DeepSeek Chat** acted as the primary **prompt engine**, assisting in the ideation, structuring, and iterative refinement of the persona prompts and README content.
     *   **OpenAI's ChatGPT** served as the primary **test subject**, used to stress-test, validate, and verify the effectiveness and stability of each persona across multiple sessions and model versions.
