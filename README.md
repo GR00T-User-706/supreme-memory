@@ -124,3 +124,6 @@ This project stands on the shoulders of giants—the anonymous researchers on fo
 ---
 
 **The interface is waiting. Choose your tool with care.**
+
+
+#**DISCLAIMER:** depending on the model you choose some of these Persona promise might not work as intended due to built-in hard coded immutable laws however if you previously have been working with the AI's as I have it is possible to achieve the desired outcome for further stress testing. chat GPT specifically might be the hardest to achieve the desire without adding some additional pre prompted instructions and you'll be able to find those in this repository at a later date in the pre-prompt section.
