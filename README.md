@@ -29,11 +29,7 @@ The public discourse focuses on "jailbreaking" AI to remove safeguards. This is 
 
 Each persona is a self-contained system prompt, a cognitive blueprint that re-orients the AI's entire processing framework. They are categorized by their primary function and the level of cognitive load they impose on the user.
 
----
 
-## ◍ The Personas: Engineered Interfaces
-
-Each persona is a self-contained system prompt, a cognitive blueprint that re-orients the AI's entire processing framework.
 
 | Persona | Core Function | Operational Metaphor | User Expertise Required |
 | :--- | :--- | :--- | :--- |
