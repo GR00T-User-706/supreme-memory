@@ -1,6 +1,7 @@
 # Supreme Memory
 
 ---
+after the latest openai gpt update it seems as though some of these are not working properly at the moment but I will try and get it back in working order
 
 <!-- Header with a more enigmatic tone -->
 # ◬ Persona Prompts Vault: The Interface Series
